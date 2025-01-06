@@ -1,0 +1,8 @@
+/Users/manu/Desktop/CapX/portifolioTracker/backend/src/main/java/com/portfolio/controller/StockController.java
+/Users/manu/Desktop/CapX/portifolioTracker/backend/src/main/java/com/portfolio/model/Stock.java
+/Users/manu/Desktop/CapX/portifolioTracker/backend/src/main/java/com/portfolio/dto/StockDTO.java
+/Users/manu/Desktop/CapX/portifolioTracker/backend/src/main/java/com/portfolio/exception/StockNotFoundException.java
+/Users/manu/Desktop/CapX/portifolioTracker/backend/src/main/java/com/portfolio/exception/GlobalExceptionHandler.java
+/Users/manu/Desktop/CapX/portifolioTracker/backend/src/main/java/com/portfolio/App.java
+/Users/manu/Desktop/CapX/portifolioTracker/backend/src/main/java/com/portfolio/service/StockService.java
+/Users/manu/Desktop/CapX/portifolioTracker/backend/src/main/java/com/portfolio/repository/StockRepository.java
