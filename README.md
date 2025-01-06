@@ -37,7 +37,7 @@ Before you begin, make sure to have the following tools installed:
 ### 🏗️ **Getting Started**
 #### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/VighneshVejandla/portfolioTracker.git
+git clone https://github.com/Manu270/CapX.git
 cd portfolioTracker
 ```
 
